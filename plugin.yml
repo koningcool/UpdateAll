@@ -1,0 +1,8 @@
+---
+name: UpdateAll
+version: 1..0.0
+main: koningcool\UpdateAll\Main
+api: 3.15.0
+
+#commands:
+...
