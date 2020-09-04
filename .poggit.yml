@@ -4,4 +4,6 @@ branches:
 - master
 projects:
   UpdateAll:
+    path: ""
+    icon: "icon.png"
 ...
